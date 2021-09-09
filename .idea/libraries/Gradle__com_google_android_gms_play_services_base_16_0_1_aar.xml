@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-base:16.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b08e916088c65b4681837f0dc9c4706/jetified-play-services-base-16.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b08e916088c65b4681837f0dc9c4706/jetified-play-services-base-16.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2b08e916088c65b4681837f0dc9c4706/jetified-play-services-base-16.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f53df9d6e2c7a7f3703b09eed970b328/jetified-play-services-base-16.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f53df9d6e2c7a7f3703b09eed970b328/jetified-play-services-base-16.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f53df9d6e2c7a7f3703b09eed970b328/jetified-play-services-base-16.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cf54dfebcbbf56836c823e8722c058e8/jetified-play-services-base-16.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cf54dfebcbbf56836c823e8722c058e8/jetified-play-services-base-16.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cf54dfebcbbf56836c823e8722c058e8/jetified-play-services-base-16.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05eae6b41174b55a3cdc319599b3c86b/jetified-play-services-base-16.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05eae6b41174b55a3cdc319599b3c86b/jetified-play-services-base-16.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05eae6b41174b55a3cdc319599b3c86b/jetified-play-services-base-16.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
